@@ -1,0 +1,152 @@
+{
+  "villa": [
+    {
+      "id": "Hotspot_Facade",
+      "title": "Facade",
+      "kind": "Exterior",
+      "description": "A teak-clad first floor cantilevers over a white ground floor with floor-to-ceiling black-steel glazing. The deep overhang keeps the afternoon sun off the glass.",
+      "camera": [-6, 6, 15],
+      "materials": ["burma-teak", "lime-plaster", "black-steel-grill", "low-iron-glass"]
+    },
+    {
+      "id": "Hotspot_Entrance",
+      "title": "Entrance & jali",
+      "kind": "Feature",
+      "description": "A pivot teak door under a slim canopy, an Athangudi-tile porch and a pierced jali screen that lets the breeze through while keeping the dining room private.",
+      "camera": [6, 2.4, 12],
+      "materials": ["burma-teak", "athangudi-tiles", "temple-brass"]
+    },
+    {
+      "id": "Hotspot_Living",
+      "title": "Living room",
+      "kind": "Room",
+      "description": "An open living room with a navy sofa, mustard chairs and a marble coffee table, glazed on two sides. A small teak console holds the evening lamp.",
+      "camera": [-0.2, 1.7, 3.5],
+      "materials": ["roman-travertine", "makrana-style-marble", "burma-teak", "ivory-cotton"]
+    },
+    {
+      "id": "Hotspot_Kitchen",
+      "title": "Kitchen & dining",
+      "kind": "Room",
+      "description": "An island kitchen with a black granite worktop and brass stools, opening onto a six-seat dining table by the garden window.",
+      "camera": [1, 2, 3],
+      "materials": ["black-granite", "marble-honed", "temple-brass", "zellige-ceramic"]
+    },
+    {
+      "id": "Hotspot_Master",
+      "title": "Master bedroom",
+      "kind": "Room",
+      "description": "The upstairs master suite has a teak-clad window wall, a walk-along wardrobe and a reading corner. Lift the roof with the layers button to see every room from above.",
+      "camera": [-2.5, 6.2, 10.5],
+      "materials": ["burma-teak", "handloom-cotton", "ivory-cotton"]
+    },
+    {
+      "id": "Hotspot_Pool",
+      "title": "Pool deck",
+      "kind": "Garden",
+      "description": "A narrow lap pool framed by travertine coping, two loungers and coconut palms. The garden wall keeps the street out.",
+      "camera": [6, 3.5, 12],
+      "materials": ["roman-travertine", "laterite-stone"]
+    },
+    {
+      "id": "Hotspot_Roof",
+      "title": "Flat roof",
+      "kind": "Structure",
+      "description": "A flat concrete roof with a deep fascia, a rooftop water tank and a solar array for the pumps and lights.",
+      "camera": [-8, 12, 9],
+      "materials": ["polished-concrete", "lime-plaster"]
+    }
+  ],
+  "flat": [
+    {
+      "id": "Hotspot_Living",
+      "title": "Living room",
+      "kind": "Room",
+      "description": "A teak-panelled TV wall, a navy three-seater and two mustard chairs around a marble coffee table. The oak floor runs straight into the dining area.",
+      "camera": [6, 5, 4.5],
+      "materials": ["burma-teak", "makrana-style-marble", "ivory-cotton"]
+    },
+    {
+      "id": "Hotspot_Dining",
+      "title": "Dining",
+      "kind": "Room",
+      "description": "A four-seat oak table under a linear pendant, with a walnut sideboard and a window onto the back lane.",
+      "camera": [6.5, 4.5, 0.5],
+      "materials": ["burma-teak", "marble-honed"]
+    },
+    {
+      "id": "Hotspot_Kitchen",
+      "title": "Kitchen",
+      "kind": "Room",
+      "description": "A galley kitchen with a black granite counter, a pass-through to the dining room and a shelf of brass vessels.",
+      "camera": [9.5, 4, -1.5],
+      "materials": ["black-granite", "temple-brass", "zellige-ceramic"]
+    },
+    {
+      "id": "Hotspot_Pooja",
+      "title": "Pooja unit",
+      "kind": "Feature",
+      "description": "A teak pooja cabinet with a granite ledge, a red back panel and a small kuthuvilakku, placed just inside the entrance as in many Chennai flats.",
+      "camera": [3.5, 3.2, -1],
+      "materials": ["burma-teak", "black-granite", "temple-brass"]
+    },
+    {
+      "id": "Hotspot_Master",
+      "title": "Master bedroom",
+      "kind": "Room",
+      "description": "A sage-green headboard wall, a walnut wardrobe and an attached bathroom with a glass shower.",
+      "camera": [9.5, 5.5, 5],
+      "materials": ["lime-plaster", "rosewood", "ivory-cotton"]
+    },
+    {
+      "id": "Hotspot_Study",
+      "title": "Second bedroom & study",
+      "kind": "Room",
+      "description": "A single bed, a compact wardrobe and a desk by the window, so the second room can double as a work-from-home study.",
+      "camera": [9, 5, -0.5],
+      "materials": ["burma-teak", "handloom-cotton"]
+    }
+  ],
+  "office": [
+    {
+      "id": "Hotspot_Reception",
+      "title": "Reception",
+      "kind": "Zone",
+      "description": "A travertine reception desk in front of a slatted teak feature wall with a brass logo plate, and a navy waiting sofa.",
+      "camera": [3, 3.8, 5.5],
+      "materials": ["roman-travertine", "burma-teak", "temple-brass"]
+    },
+    {
+      "id": "Hotspot_Workspace",
+      "title": "Open workspace",
+      "kind": "Zone",
+      "description": "Four benches of four desks, each with a sage divider and a monitor. Polished concrete underfoot keeps the floor cool and easy to clean.",
+      "camera": [12.6, 6.5, 6.5],
+      "materials": ["polished-concrete", "black-steel-grill"]
+    },
+    {
+      "id": "Hotspot_Meeting",
+      "title": "Meeting room",
+      "kind": "Zone",
+      "description": "A glass-walled room for eight around a walnut table, with a wall screen for presentations and a linear pendant above.",
+      "camera": [8, 6, -2],
+      "materials": ["low-iron-glass", "black-steel-grill", "rosewood"]
+    },
+    {
+      "id": "Hotspot_Lounge",
+      "title": "Lounge & oonjal",
+      "kind": "Zone",
+      "description": "Rust sofas, mustard chairs and a library wall, plus a teak oonjal for the five-minute break that makes the afternoon work.",
+      "camera": [9, 4.5, -2.5],
+      "materials": ["burma-teak", "kanchipuram-silk", "cane-weave"]
+    },
+    {
+      "id": "Hotspot_Pantry",
+      "title": "Pantry",
+      "kind": "Zone",
+      "description": "A long oak pantry run with a black granite top and an island with three leather stools, close to the window wall.",
+      "camera": [15, 5, -2.5],
+      "materials": ["black-granite", "marble-honed", "zellige-ceramic"]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-charcoal: #171715;
+  --color-charcoal-soft: #22221f;
+  --color-ivory: #f3f0e9;
+  --color-ivory-deep: #e9e4d9;
+  --color-stone: #b9ad98;
+  --color-stone-deep: #8c826f;
+  --color-olive: #77796c;
+  --color-olive-deep: #5d5f53;
+  --color-white: #ffffff;
+  --color-error: #9c3b2f;
+
+  --font-serif: 'Instrument Serif', 'Times New Roman', serif;
+  --font-sans: 'Inter Variable', 'Helvetica Neue', Arial, sans-serif;
+  --font-display: 'Cinzel', 'Trajan Pro', 'Times New Roman', serif;
+
+  --text-display: clamp(3.2rem, 9vw, 9.5rem);
+  --text-display--line-height: 0.92;
+  --text-headline: clamp(2.4rem, 5.4vw, 5.2rem);
+  --text-headline--line-height: 1;
+  --text-title: clamp(1.75rem, 3vw, 2.75rem);
+  --text-title--line-height: 1.08;
+
+  --ease-architect: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    /* Keep focused fields and anchor targets clear of the fixed header. */
+    scroll-padding-top: 96px;
+  }
+
+  /* No CSS scroll-behavior: smooth. It animates window.scrollTo on route changes and fights GSAP ScrollTrigger pinning; smooth scrolling is requested explicitly in JS. */
+
+  body {
+    @apply bg-ivory font-sans text-charcoal antialiased;
+    font-feature-settings: 'ss01', 'cv11';
+    overflow-x: hidden;
+  }
+
+  ::selection {
+    background: var(--color-stone);
+    color: var(--color-charcoal);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-olive);
+    outline-offset: 3px;
+  }
+
+  .on-dark :focus-visible,
+  .bg-charcoal :focus-visible {
+    outline-color: var(--color-stone);
+  }
+
+  img {
+    @apply select-none;
+  }
+
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+}
+
+@layer components {
+  .container-wide {
+    @apply mx-auto w-full max-w-[1600px] px-4 sm:px-8 lg:px-12;
+  }
+
+  .eyebrow {
+    @apply text-[0.7rem] font-medium tracking-[0.22em] uppercase;
+  }
+
+  .link-underline {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.5s var(--ease-architect);
+  }
+
+  .link-underline:hover,
+  .link-underline:focus-visible,
+  .link-underline[aria-current='page'] {
+    background-size: 100% 1px;
+  }
+
+  .prose-editorial p {
+    @apply mb-6 text-[1.075rem] leading-[1.75] text-charcoal/85;
+  }
+
+  .prose-editorial h2 {
+    @apply mt-14 mb-5 font-serif text-[2rem] leading-tight;
+  }
+
+  .prose-editorial blockquote {
+    @apply my-12 border-l border-stone pl-6 font-serif text-[1.75rem] leading-snug text-charcoal;
+  }
+
+  .field-input {
+    @apply w-full border-0 border-b border-charcoal/25 bg-transparent px-0 py-3 text-base text-charcoal transition-colors placeholder:text-charcoal/40 focus:border-charcoal focus:ring-0 focus:outline-none;
+  }
+
+  .field-input[aria-invalid='true'] {
+    @apply border-error;
+  }
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

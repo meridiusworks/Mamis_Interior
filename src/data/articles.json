@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "thinnai-the-seat-that-talks",
+    "title": "Thinnai: the seat that talks to the street",
+    "dek": "Why the raised verandah seat deserves a comeback — even in a gated community.",
+    "category": "Architecture",
+    "date": "2026-09-18",
+    "author": "Meenakshi Sundaram",
+    "readingMinutes": 6,
+    "featured": true,
+    "cover": { "src": "/images/renders/mutram-thinnai", "alt": "Thinnai seats along a verandah with teak pillars", "ratio": 0.769 },
+    "tags": ["Mutram Veedu", "Thinnai", "Verandah"],
+    "body": [
+      { "type": "p", "text": "Every old Tamil street had a parliament, and it sat on the thinnai. Raised half a metre above the verandah floor, lime-plastered and topped with red oxide, the thinnai was where news was exchanged, horoscopes compared and passing vendors interrogated about the price of drumsticks." },
+      { "type": "p", "text": "Modern houses dropped it. The front door moved behind a car porch and a gate with a sensor light. We think that is a loss — not only socially, but climatically." },
+      { "type": "h2", "text": "Shade first, seat second" },
+      { "type": "p", "text": "A thinnai only works under a deep verandah roof. In Mutram Veedu the clay-tile roof projects nearly three metres beyond the front wall, carried by six octagonal teak pillars. The wall behind stays in shade all afternoon, and the seat stays cool enough to sit on in May." },
+      { "type": "quote", "text": "Thinnai-la utkaandha, ooru-ke news theriyum. (Sit on the thinnai and the whole town's news finds you.)" },
+      { "type": "p", "text": "We keep the seat 450 mm high and 1.5 metres deep — enough to sit cross-legged, or to lie down after lunch, which is the true test of any thinnai." },
+      { "type": "image", "image": { "src": "/images/renders/mutram-exterior-day", "alt": "The house seen from the gate with the thinnai verandah", "ratio": 1.6, "caption": "The verandah from the gate." } },
+      { "type": "h2", "text": "In a flat?" },
+      { "type": "p", "text": "Apartment balconies can borrow the idea: a built-in seat along the parapet, a shading screen, and a place for the morning coffee that isn't the sofa. It won't give you the street gossip, but your neighbour across the corridor will try." }
+    ]
+  },
+  {
+    "slug": "athangudi-tile-field-guide",
+    "title": "A field guide to Athangudi tiles",
+    "dek": "Handmade, sun-cured and slightly uneven — exactly why we love them.",
+    "category": "Materials",
+    "date": "2026-07-02",
+    "author": "Karthik Raman",
+    "readingMinutes": 7,
+    "featured": false,
+    "cover": { "src": "/images/renders/material-board-low", "alt": "Samples of Athangudi tile, teak, granite, roof tile, cane and silk on a plaster table", "ratio": 0.769 },
+    "tags": ["Athangudi", "Materials", "Chettinad"],
+    "body": [
+      { "type": "p", "text": "Athangudi tiles are not fired. They are made by pouring coloured cement into a metal pattern frame on a sheet of glass, backing it with a sand-and-cement mix, and curing the tile in water and sun. The glass gives the face its shine; the hand gives each tile its small differences." },
+      { "type": "h2", "text": "Choosing a pattern" },
+      { "type": "p", "text": "Large rooms can carry bold, repeating patterns — the rings and flowers in Mutram Veedu's hall read as a carpet. Small rooms do better with a patterned border around a plain field, or a single colour with a thin inset line." },
+      { "type": "quote", "text": "Design paakka simple-aa irukkanum… aana tile-la thaan full masala! (Keep the room simple — let the tile bring the masala.)" },
+      { "type": "h2", "text": "Living with them" },
+      { "type": "p", "text": "Athangudi tiles get better with use: daily mopping polishes the surface, and a coat of wax a couple of times a year deepens the colour. They will chip if you drop the ammi kal on them, so keep the grinding stone on the granite." },
+      { "type": "p", "text": "The tile texture you can preview in our material library was generated procedurally in Blender for this portfolio. Always approve real tiles from physical samples and the maker's batch." }
+    ]
+  },
+  {
+    "slug": "mutram-the-courtyard-that-cools",
+    "title": "Mutram: the courtyard that cools the house",
+    "dek": "Before air conditioning there was the open courtyard. It still works.",
+    "category": "Sustainability",
+    "date": "2026-05-21",
+    "author": "Senthil Murugan",
+    "readingMinutes": 6,
+    "featured": false,
+    "cover": { "src": "/images/renders/mutram-courtyard", "alt": "Open courtyard with tulsi madam and teak pillars", "ratio": 1.6 },
+    "tags": ["Mutram", "Passive cooling", "Monsoon"],
+    "body": [
+      { "type": "p", "text": "A mutram is a hole in the middle of the house, and that is precisely its genius. Warm air rises out of it; cooler air is pulled in through the windows and the shaded verandah. On a still afternoon the courtyard keeps the rooms around it breathing." },
+      { "type": "h2", "text": "Roofs that pour inward" },
+      { "type": "p", "text": "In Mutram Veedu the roof slopes two ways: outward to the eaves, and inward to the courtyard. In the monsoon, water pours from the inner edge onto the stone floor and into a drain that can feed a recharge pit. The sound is the best thing about the house." },
+      { "type": "quote", "text": "Mazhai vandha, mutram-la oru concert! (When it rains, the courtyard throws a concert.)" },
+      { "type": "h2", "text": "Mosquitoes and other objections" },
+      { "type": "p", "text": "Yes, an open courtyard needs drainage that never stands, mesh where the family sleeps and a plan for the occasional curious monkey. These are details, not deal-breakers — and the electricity bill is the strongest argument we know." }
+    ]
+  },
+  {
+    "slug": "restoring-a-madras-terrace-roof",
+    "title": "Restoring a Madras-terrace roof",
+    "dek": "Teak joists, brick on edge and lime: what to keep, what to replace, and who to call.",
+    "category": "Process",
+    "date": "2026-03-09",
+    "author": "Karthik Raman",
+    "readingMinutes": 5,
+    "featured": false,
+    "cover": { "src": "/images/renders/mylapore-kitchen", "alt": "Kitchen under a ceiling of teak joists", "ratio": 1.6 },
+    "tags": ["Renovation", "Mylapore", "Madras terrace"],
+    "body": [
+      { "type": "p", "text": "A Madras-terrace roof is a flat roof made of teak joists, bricks laid diagonally between them, and layers of lime concrete on top. Many were built a century ago and many are still standing — usually under a coat of paint and a false ceiling." },
+      { "type": "h2", "text": "Start with a keep list" },
+      { "type": "p", "text": "On the Mylapore study we started by listing what the house already did well: tall windows, a brick wall worth seeing, and joists that only needed cleaning and a few replacements. Half the brief was solved before we drew a new line." },
+      { "type": "image", "image": { "src": "/images/renders/mylapore-kitchen-before", "alt": "The room before renovation with an old counter and boxes", "ratio": 1.6, "caption": "Visualisation of the existing condition." } },
+      { "type": "quote", "text": "Pazhaya veedu-nu thalla vechudaadheenga… adhula thaan gethu irukku! (Don't write off an old house — that's where the swag is.)" },
+      { "type": "h2", "text": "Adding clearly" },
+      { "type": "p", "text": "New work should look new. The teak kitchen and granite island sit in front of the brick like furniture in a found room, and the oonjal hangs from its own beam rather than from the old joists." }
+    ]
+  },
+  {
+    "slug": "plan-before-palette-2bhk",
+    "title": "Plan before palette: the 2BHK edition",
+    "dek": "Most rooms that feel wrong have a planning problem, not a paint problem.",
+    "category": "Spatial Planning",
+    "date": "2026-01-27",
+    "author": "Meenakshi Sundaram",
+    "readingMinutes": 5,
+    "featured": false,
+    "cover": { "src": "/images/drawings/adyar-plan", "alt": "Furnished plan drawing of an apartment living room", "ratio": 1.6 },
+    "tags": ["Space planning", "Oonjal Flat", "Apartments"],
+    "body": [
+      { "type": "p", "text": "Clients arrive with Pinterest boards. We love Pinterest boards. But when a room feels uncomfortable the cause is almost always geometric: a sofa blocking the balcony door, a dining table you can't walk around, a TV that decides where everyone sits." },
+      { "type": "h2", "text": "Lines of movement" },
+      { "type": "p", "text": "We begin every flat with a plan that shows only movement: front door to kitchen, kitchen to dining, bedroom to bathroom, everyone to the balcony when it rains. Furniture goes in the spaces between those lines, never across them." },
+      { "type": "quote", "text": "Furniture-a nadu road-la podaadheenga! (Don't park furniture in the middle of the road.)" },
+      { "type": "p", "text": "In the Oonjal Flat this meant giving the window wall to the swing instead of a second sofa. It freed the route to the balcony and made the breeziest spot the best seat in the house." },
+      { "type": "h2", "text": "Then the palette" },
+      { "type": "p", "text": "Once the plan works, materials stop compensating for anything. A good plan can carry a quiet palette — and quiet palettes are the ones that last beyond the next festival sale." }
+    ]
+  },
+  {
+    "slug": "designing-in-real-time",
+    "title": "Designing in real time",
+    "dek": "How one Blender model became our drawings, renderings and web viewer.",
+    "category": "Interiors",
+    "date": "2025-11-12",
+    "author": "Divya Natarajan",
+    "readingMinutes": 8,
+    "featured": false,
+    "cover": { "src": "/images/drawings/mutram-axonometric", "alt": "Axonometric drawing of the courtyard house", "ratio": 1.6 },
+    "tags": ["3D", "Blender", "Three.js", "Process"],
+    "body": [
+      { "type": "p", "text": "Most studios keep three versions of a project: the drawings, the visualisation model and whatever goes on the website. They drift apart within weeks. For this portfolio we tried something stricter: one Blender scene, generated by a script, feeding everything." },
+      { "type": "h2", "text": "One script, many outputs" },
+      { "type": "p", "text": "A Python script builds the courtyard house and four interiors from parametric pieces — walls with openings, octagonal pillars, oonjal, kuthuvilakku, coconut trees — and assigns materials whose textures, from Athangudi tiles to the kolam on the verandah, are generated procedurally. The same run renders the photography, exports line drawings and writes a compressed GLB for the browser." },
+      { "type": "image", "image": { "src": "/images/drawings/mutram-plan", "alt": "Floor plan rendered from the model", "ratio": 1.6, "caption": "Plans are rendered from the model, so they cannot disagree with it." } },
+      { "type": "quote", "text": "Oru model… pala output! (One model — many outputs!)" },
+      { "type": "h2", "text": "From Blender to the browser" },
+      { "type": "p", "text": "The web model is Draco-compressed to about two megabytes and loads only on the pages that need it. Named empties in Blender become hotspots in the viewer, so moving the pooja hotspot in the scene moves it on the website at the next export." },
+      { "type": "p", "text": "The approach has limits: procedural geometry looks clean rather than lived-in, and real-time lighting cannot match an offline render. But when the design changes, every image changes with it." }
+    ]
+  }
+]

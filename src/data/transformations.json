@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mylapore-living",
+    "project": "mylapore-terrace-house",
+    "category": "Heritage house",
+    "title": "Mylapore living room",
+    "description": "A storeroom with tube lights and patched concrete becomes a living room with a red oxide floor, cleaned brick and an oonjal — under the original Madras-terrace roof.",
+    "before": { "src": "/images/renders/mylapore-living-before", "alt": "Bare room with grey concrete floor, cardboard boxes, tube lights and clouded windows under teak joists", "ratio": 1.6 },
+    "after": { "src": "/images/renders/mylapore-living", "alt": "The same room with red oxide floor, sofa, oonjal, plants and clear windows", "ratio": 1.6 }
+  },
+  {
+    "id": "mylapore-kitchen",
+    "project": "mylapore-terrace-house",
+    "category": "Heritage house",
+    "title": "Mylapore kitchen",
+    "description": "The far wall gets a teak kitchen with a black granite counter and green tiles, a granite-topped island and three cane stools.",
+    "before": { "src": "/images/renders/mylapore-kitchen-before", "alt": "Bare wall with an old counter and boxes", "ratio": 1.6 },
+    "after": { "src": "/images/renders/mylapore-kitchen", "alt": "Teak kitchen with granite island, brass pendants and cane stools", "ratio": 1.6 }
+  },
+  {
+    "id": "adyar-living",
+    "project": "oonjal-flat",
+    "category": "Apartment",
+    "title": "Adyar living room",
+    "description": "Beige vitrified tiles and a lone tube light give way to an Athangudi floor, an oonjal by the window, cane chairs and brass.",
+    "before": { "src": "/images/renders/adyar-living-before", "alt": "Apartment room with plain beige tiles, yellowed walls, a tube light and boxes", "ratio": 1.6 },
+    "after": { "src": "/images/renders/adyar-living", "alt": "Finished living room with Athangudi tiles, oonjal and cane chairs", "ratio": 1.6 }
+  }
+]

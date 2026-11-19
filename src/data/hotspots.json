@@ -1,0 +1,66 @@
+[
+  {
+    "id": "Hotspot_Thinnai",
+    "title": "Thinnai",
+    "kind": "Room",
+    "description": "Raised seats along the verandah where the family once chatted with the street — and where the paati still keeps watch. Six octagonal teak pillars on granite bases carry the roof.",
+    "camera": [-9.5, 3.2, 12.5],
+    "materials": ["red-oxide-floor", "burma-teak", "black-granite", "lime-plaster"]
+  },
+  {
+    "id": "Hotspot_Door",
+    "title": "Main door & kolam",
+    "kind": "Feature",
+    "description": "A carved teak double door with brass studs and ring handles. The kolam in front is drawn fresh every morning (ours is baked into the floor texture, so it never smudges).",
+    "camera": [1.2, 2.4, 10.5],
+    "materials": ["burma-teak", "temple-brass", "red-oxide-floor"]
+  },
+  {
+    "id": "Hotspot_Mutram",
+    "title": "Mutram",
+    "kind": "Room",
+    "description": "The open courtyard at the heart of the house: sunk a little, paved in stone, with the tulsi madam at the centre. Light, breeze and monsoon rain all arrive here.",
+    "camera": [4.0, 12.0, 4.5],
+    "materials": ["black-granite", "athangudi-tiles", "burma-teak"]
+  },
+  {
+    "id": "Hotspot_Oonjal",
+    "title": "Oonjal hall",
+    "kind": "Room",
+    "description": "A teak swing on brass chains, a silk cushion and cane chairs for evening coffee. Athangudi tiles underfoot, a Thanjavur-style panel on the wall.",
+    "camera": [0.5, 3.6, -2.0],
+    "materials": ["athangudi-tiles", "burma-teak", "kanchipuram-silk", "cane-weave"]
+  },
+  {
+    "id": "Hotspot_Kitchen",
+    "title": "Dining & kitchen",
+    "kind": "Room",
+    "description": "Red oxide floor, a teak dining table with cane chairs, and a kitchen with a black granite counter, green tiles and a shelf of brass and copper vessels. The aattukal waits in the corner.",
+    "camera": [-0.5, 3.4, -1.0],
+    "materials": ["red-oxide-floor", "black-granite", "burma-teak", "temple-brass"]
+  },
+  {
+    "id": "Hotspot_Pooja",
+    "title": "Pooja niche",
+    "kind": "Feature",
+    "description": "A teak-lined niche in the back wall with a gilded panel and kuthuvilakkus — on axis with the front door, so the lamps are the first thing you see.",
+    "camera": [0.0, 2.8, -2.4],
+    "materials": ["burma-teak", "temple-brass", "lime-plaster"]
+  },
+  {
+    "id": "Hotspot_Roof",
+    "title": "Clay-tile roof",
+    "kind": "Material",
+    "description": "Mangalore tiles on teak rafters. The roof slopes out to the eaves and in to the courtyard, so the rain is collected, not wasted — and the attic stays cool.",
+    "camera": [-16.0, 10.0, 14.0],
+    "materials": ["mangalore-roof-tiles", "burma-teak"]
+  },
+  {
+    "id": "Hotspot_Garden",
+    "title": "Garden & well",
+    "kind": "Feature",
+    "description": "Coconut trees, banana plants, jasmine by the gate and a well in the back yard with a teak pulley frame — for the house that still respects groundwater.",
+    "camera": [6.0, 6.0, 20.0],
+    "materials": ["burma-teak", "lime-plaster"]
+  }
+]

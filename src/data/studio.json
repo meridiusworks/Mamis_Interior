@@ -1,0 +1,43 @@
+{
+  "team": [
+    { "id": "meenakshi-sundaram", "name": "Meenakshi Sundaram", "role": "Founding Principal, Architecture", "initials": "MS", "bio": "Leads the studio's architecture. Believes every house needs a thinnai, a mutram and at least one argument about where the pooja room goes." },
+    { "id": "karthik-raman", "name": "Karthik Raman", "role": "Principal, Interiors", "initials": "KR", "bio": "Directs interiors and renovation. Can identify an Athangudi pattern from across the room and a fake teak door from across the street." },
+    { "id": "divya-natarajan", "name": "Divya Natarajan", "role": "Head of Visualisation", "initials": "DN", "bio": "Builds the Blender pipeline and every 3D model on this site. Has rendered more kolams than she has drawn — and she draws one every morning." },
+    { "id": "senthil-murugan", "name": "Senthil Murugan", "role": "Associate, Sustainability", "initials": "SM", "bio": "Advises on courtyards, cross-ventilation, rainwater and lime. Considers the electricity bill the most honest review of any design." }
+  ],
+  "principles": [
+    { "title": "Keep before adding", "text": "Every project starts with a list of what already works — a teak door, a brick wall, a breeze from the east." },
+    { "title": "Climate first", "text": "Verandahs, courtyards, thick walls and clay roofs before air conditioners." },
+    { "title": "Local hands, local materials", "text": "Athangudi tiles, teak, granite, brass and lime — made by craftspeople within a day's drive." },
+    { "title": "Three generations, one house", "text": "Plans that work for the paati, the parents and the kids — steps, light and privacy included." },
+    { "title": "One model, one truth", "text": "Drawings, renderings and the 3D walkthrough come from the same model, so they never disagree." }
+  ],
+  "process": [
+    { "number": "01", "title": "Pesuvom", "duration": "1–2 weeks", "text": "Let's talk. Site visit or call, a brief over filter coffee, and a measured survey." },
+    { "number": "02", "title": "Varaivom", "duration": "3–6 weeks", "text": "We draw. Layout options, a first 3D model you can walk around, and a material direction." },
+    { "number": "03", "title": "Thittamiduvom", "duration": "6–12 weeks", "text": "We plan the details: plans, sections, joinery, lighting and finishes, with costs checked as we go." },
+    { "number": "04", "title": "Kattuvom", "duration": "Project length", "text": "We build. Contractor selection, site visits and samples approved in place — no surprises." },
+    { "number": "05", "title": "Graha Pravesam", "duration": "One auspicious day", "text": "Housewarming. Handover, a maintenance guide and, if invited, we bring the sweets." }
+  ],
+  "history": [
+    { "year": "2016", "text": "Started in a Mylapore garage with one drafting table and a very patient landlord." },
+    { "year": "2019", "text": "First new courtyard house; interiors and architecture brought under one roof." },
+    { "year": "2022", "text": "Visualisation moves in-house with a Blender pipeline — clients start 'walking' their houses before construction." },
+    { "year": "2026", "text": "Launch of this interactive portfolio, built from a single generated 3D model." }
+  ],
+  "testimonials": [
+    { "id": "t1", "quote": "Oonjal-la utkaandha, serial kooda maranthutten!", "attribution": "Amma", "context": "Oonjal Flat, Adyar — “I sat on the swing and forgot my serial!”" },
+    { "id": "t2", "quote": "EB bill paathu shock aagala… idhu thaan real twist!", "attribution": "Appa", "context": "Courtyard house — “Saw the electricity bill and wasn't shocked. Now that's a twist!”" },
+    { "id": "t3", "quote": "Mutram-la mazhai paathaa, en chinna vayasu nyabagam vandhuchu.", "attribution": "Paati", "context": "Courtyard house — “Watching the rain in the mutram took me back to my childhood.”" },
+    { "id": "t4", "quote": "3D-la paathadhu, site-la vandhadhu — onnu maadhiri irundhuchu!", "attribution": "Hotel owner", "context": "Hospitality interior — “What we saw in 3D is exactly what got built!”" }
+  ],
+  "press": [
+    { "id": "p1", "kind": "Award", "title": "Residential Concept of the Year — shortlist", "outlet": "Sample Architecture Awards", "date": "2026-06-12", "summary": "Placeholder entry illustrating how a shortlisting for Mutram Veedu would be presented.", "project": "mutram-veedu" },
+    { "id": "p2", "kind": "Award", "title": "Hospitality Interior — commendation", "outlet": "Sample Interior Prize", "date": "2025-11-03", "summary": "Placeholder entry for the Hotel Mallipoo lobby study.", "project": "hotel-mallipoo" },
+    { "id": "p3", "kind": "Publication", "title": "Thinnai: the seat that talks to the street", "outlet": "Mami’s Interior Journal", "date": "2026-09-18", "summary": "Our essay on the raised verandah seat, published on this site.", "project": "mutram-veedu", "link": "/journal/thinnai-the-seat-that-talks" },
+    { "id": "p4", "kind": "Interview", "title": "Designing in real time", "outlet": "Mami’s Interior Journal", "date": "2025-11-12", "summary": "How a single Blender model feeds our drawings, renderings and web viewer.", "link": "/journal/designing-in-real-time" },
+    { "id": "p5", "kind": "Publication", "title": "Restoring a Madras-terrace roof", "outlet": "Mami’s Interior Journal", "date": "2026-03-09", "summary": "On the Mylapore study and the value of the existing house.", "project": "mylapore-terrace-house", "link": "/journal/restoring-a-madras-terrace-roof" },
+    { "id": "p6", "kind": "Exhibition", "title": "Material Library — open studio", "outlet": "Sample Design Week", "date": "2026-04-20", "summary": "Placeholder entry showing how an exhibition listing would appear.", "project": "kaapi-labs" },
+    { "id": "p7", "kind": "Award", "title": "Adaptive Reuse — finalist", "outlet": "Sample Renovation Awards", "date": "2025-05-14", "summary": "Placeholder entry for the Mylapore Terrace House renovation study.", "project": "mylapore-terrace-house" }
+  ]
+}

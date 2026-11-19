@@ -1,0 +1,515 @@
+[
+  {
+    "slug": "mutram-veedu",
+    "title": "Mutram Veedu",
+    "subtitle": "A Chettinad-style courtyard home with thinnai, oonjal and a clay-tile roof",
+    "categories": [
+      "Architecture",
+      "Residential",
+      "Interior Design"
+    ],
+    "type": "Courtyard house",
+    "location": "Karaikudi, Tamil Nadu",
+    "year": 2026,
+    "status": "Concept study · unbuilt",
+    "featured": true,
+    "cover": {
+      "src": "/images/renders/mutram-exterior-dusk",
+      "alt": "South Indian courtyard house at dusk with a clay-tile roof, teak pillars on the thinnai verandah and coconut trees",
+      "ratio": 1.6
+    },
+    "excerpt": "A single-storey home built around an open mutram: thinnai at the front, oonjal in the hall, brass lamps at the pooja shelf, and a roof that pours the monsoon into the courtyard.",
+    "concept": "Everything turns towards the mutram. The four roofs slope inward so light, breeze and rain all arrive at the tulsi madam in the centre — and the family gathers around it.",
+    "narrative": [
+      "The brief came from a family that wanted the house of their grandparents' stories, but with a modern kitchen and fewer mosquitoes. We kept the bones of a Chettinad home: a raised plinth, a thinnai verandah facing the street, a carved teak door, and rooms arranged around an open courtyard.",
+      "The mutram is sunk a quarter of a metre below the floors and paved in stone. Six octagonal teak pillars on black granite bases carry the inner edge of the roof. The roof itself slopes two ways — outward to the eaves and inward to the courtyard — so the monsoon falls straight onto the tulsi madam.",
+      "The hall on the left has an Athangudi tile floor, an oonjal on brass chains and cane chairs for the evening coffee. The right wing has a red oxide floor, a teak dining table and a kitchen with a black granite counter and a shelf of brass and copper vessels. At the back, a pooja niche with two kuthuvilakkus is visible from the front door.",
+      "Every element was modelled and textured by a script in Blender for this portfolio. Mutram Veedu is a concept study and has not been built."
+    ],
+    "specs": [
+      {
+        "label": "Programme",
+        "value": "Three-bedroom courtyard home, pooja, garden with well"
+      },
+      {
+        "label": "Built-up area",
+        "value": "2,850 sq ft (concept)"
+      },
+      {
+        "label": "Structure",
+        "value": "Load-bearing brick on laterite plinth, teak roof frame"
+      },
+      {
+        "label": "Roof",
+        "value": "Mangalore clay tiles on teak rafters"
+      },
+      {
+        "label": "Climate",
+        "value": "Courtyard stack ventilation, deep verandah shade"
+      },
+      {
+        "label": "Status",
+        "value": "Concept study · unbuilt"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/images/renders/mutram-exterior-day",
+        "alt": "The house from the front garden: thinnai verandah with teak pillars under a clay-tile roof",
+        "ratio": 1.6,
+        "caption": "From the gate — thinnai and verandah"
+      },
+      {
+        "src": "/images/renders/mutram-courtyard",
+        "alt": "Open courtyard with a tulsi madam, teak pillars, Athangudi tiles and a pooja niche beyond",
+        "ratio": 1.6,
+        "caption": "The mutram, with the pooja niche beyond"
+      },
+      {
+        "src": "/images/renders/mutram-thinnai",
+        "alt": "Thinnai seats and a row of octagonal teak pillars along the verandah",
+        "ratio": 0.769,
+        "caption": "Thinnai — the seat that talks to the street"
+      },
+      {
+        "src": "/images/renders/mutram-door",
+        "alt": "Carved teak double door with brass studs and a kolam on the red oxide floor",
+        "ratio": 0.769,
+        "caption": "Main door and kolam"
+      },
+      {
+        "src": "/images/renders/mutram-oonjal",
+        "alt": "Hall with a teak oonjal on brass chains, cane chairs and a Thanjavur-style panel",
+        "ratio": 1.6,
+        "caption": "The oonjal hall"
+      },
+      {
+        "src": "/images/renders/mutram-kitchen",
+        "alt": "Dining wing with red oxide floor, teak table and a kitchen with brass vessels",
+        "ratio": 1.6,
+        "caption": "Dining and kitchen"
+      },
+      {
+        "src": "/images/renders/mutram-pooja",
+        "alt": "Pooja niche with brass lamps and a gilded panel",
+        "ratio": 0.769,
+        "caption": "Pooja niche"
+      },
+      {
+        "src": "/images/renders/mutram-aerial",
+        "alt": "Aerial view showing the four-sided roof around the open courtyard, coconut trees and well",
+        "ratio": 1.6,
+        "caption": "From above — the roof drains into the mutram"
+      }
+    ],
+    "drawings": [
+      {
+        "src": "/images/drawings/mutram-plan",
+        "alt": "Floor plan drawing rendered from the Blender model",
+        "ratio": 1.6,
+        "title": "Floor plan"
+      },
+      {
+        "src": "/images/drawings/mutram-roof-plan",
+        "alt": "Roof plan showing the courtyard opening",
+        "ratio": 1.6,
+        "title": "Roof plan"
+      },
+      {
+        "src": "/images/drawings/mutram-elevation",
+        "alt": "Front elevation drawing",
+        "ratio": 1.6,
+        "title": "Front elevation"
+      },
+      {
+        "src": "/images/drawings/mutram-axonometric",
+        "alt": "Axonometric drawing of the house",
+        "ratio": 1.6,
+        "title": "Axonometric"
+      }
+    ],
+    "materials": [
+      "athangudi-tiles",
+      "red-oxide-floor",
+      "burma-teak",
+      "mangalore-roof-tiles",
+      "black-granite",
+      "temple-brass",
+      "lime-plaster",
+      "kanchipuram-silk",
+      "cane-weave"
+    ],
+    "transformations": [],
+    "has3d": true,
+    "services": [
+      "architectural-design",
+      "luxury-residential-interiors",
+      "3d-visualization"
+    ]
+  },
+  {
+    "slug": "oonjal-flat",
+    "title": "Oonjal Flat",
+    "subtitle": "A Chennai apartment that swings",
+    "categories": [
+      "Residential",
+      "Interior Design",
+      "Renovation"
+    ],
+    "type": "Apartment interior",
+    "location": "Adyar, Chennai",
+    "year": 2025,
+    "status": "Design study",
+    "featured": true,
+    "cover": {
+      "src": "/images/renders/adyar-living",
+      "alt": "Apartment living room with Athangudi tiles, a teak oonjal by the windows and cane chairs",
+      "ratio": 1.6
+    },
+    "excerpt": "A plain 2BHK living room gets Athangudi tiles, an oonjal by the window and a brass uruli — without breaking a single wall.",
+    "concept": "Bring the village home into a city flat with three moves: a tile floor with a pattern, a swing where the breeze is, and brass that catches the evening light.",
+    "narrative": [
+      "The flat had everything a builder flat usually has: beige vitrified tiles, a tube light in the middle of the ceiling and nowhere to sit that wasn't a sofa facing the TV. We replaced the floor with handmade Athangudi tiles and gave the window wall to an oonjal hung from the slab.",
+      "Cane chairs and a low teak teapoy face the sofa, so evening coffee becomes a conversation rather than a screen session. A Thanjavur-style panel hangs above the sofa; a kuthuvilakku stands in the corner for festival days.",
+      "Teak window frames replace the aluminium sliders and an ochre dado protects the walls from chair backs and children's cycles.",
+      "The before and after views are a visualisation study from identical Blender cameras, not photographs of a completed project."
+    ],
+    "specs": [
+      {
+        "label": "Programme",
+        "value": "Living room, swing corner, display shelf"
+      },
+      {
+        "label": "Area",
+        "value": "510 sq ft (study)"
+      },
+      {
+        "label": "Ceiling height",
+        "value": "3.4 m"
+      },
+      {
+        "label": "Key moves",
+        "value": "Athangudi floor, oonjal, teak windows, brass"
+      },
+      {
+        "label": "Status",
+        "value": "Design study"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/images/renders/adyar-oonjal",
+        "alt": "The oonjal hanging by the tall windows",
+        "ratio": 1.6,
+        "caption": "The swing corner"
+      },
+      {
+        "src": "/images/renders/adyar-detail",
+        "alt": "Teak teapoy with a small brass uruli of marigolds",
+        "ratio": 0.769,
+        "caption": "Teapoy and uruli"
+      },
+      {
+        "src": "/images/renders/adyar-living",
+        "alt": "The living room from the entrance",
+        "ratio": 1.6,
+        "caption": "Living room"
+      }
+    ],
+    "drawings": [
+      {
+        "src": "/images/drawings/adyar-plan",
+        "alt": "Furnished plan of the living room",
+        "ratio": 1.6,
+        "title": "Furnished plan"
+      }
+    ],
+    "materials": [
+      "athangudi-tiles",
+      "burma-teak",
+      "cane-weave",
+      "lime-plaster",
+      "ochre-limewash",
+      "temple-brass",
+      "handloom-cotton"
+    ],
+    "transformations": [
+      "adyar-living"
+    ],
+    "has3d": false,
+    "services": [
+      "renovation-restoration",
+      "luxury-residential-interiors",
+      "space-planning"
+    ]
+  },
+  {
+    "slug": "hotel-mallipoo",
+    "title": "Hotel Mallipoo",
+    "subtitle": "A temple-town lobby that smells of jasmine",
+    "categories": [
+      "Hospitality",
+      "Interior Design",
+      "Commercial"
+    ],
+    "type": "Hotel lobby & lounge",
+    "location": "Madurai, Tamil Nadu",
+    "year": 2025,
+    "status": "Concept study",
+    "featured": true,
+    "cover": {
+      "src": "/images/renders/mallipoo-lobby",
+      "alt": "Hotel lobby with teak pillars, Athangudi floor, red silk sofas, a brass uruli and brass bell lamps",
+      "ratio": 1.6
+    },
+    "excerpt": "Teak pillars, an Athangudi floor, red silk sofas and a giant brass uruli full of marigolds — welcome to Madurai.",
+    "concept": "Arrival should feel like stepping into a cool mandapam on a hot afternoon: high ceilings, pillars, brass light and flowers floating in water.",
+    "narrative": [
+      "The 5.6-metre lobby is organised like a temple mandapam. Four octagonal teak pillars on granite bases frame a central lounge; a cluster of brass bell lamps hangs at different heights above a 1.7-metre uruli filled with marigolds and jasmine.",
+      "Reception is a stone counter with a teak top, guarded by a tall kuthuvilakku that is lit every evening. A large Thanjavur-style panel in a gilded frame faces the entrance.",
+      "Sofas are upholstered in deep red silk with gold borders; cane chairs face them across the uruli so guests can wait, meet or simply watch the flowers.",
+      "This is a concept visualisation made for the portfolio; the hotel is fictional."
+    ],
+    "specs": [
+      {
+        "label": "Programme",
+        "value": "Lobby, lounge, reception"
+      },
+      {
+        "label": "Area",
+        "value": "1,900 sq ft (concept)"
+      },
+      {
+        "label": "Ceiling height",
+        "value": "5.6 m"
+      },
+      {
+        "label": "Lighting",
+        "value": "Brass bell pendants, lamp-lit reception"
+      },
+      {
+        "label": "Status",
+        "value": "Concept study"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/images/renders/mallipoo-lounge",
+        "alt": "Lounge seating around the brass uruli under bell lamps",
+        "ratio": 1.6,
+        "caption": "The uruli lounge"
+      },
+      {
+        "src": "/images/renders/mallipoo-reception",
+        "alt": "Reception counter with a tall brass lamp",
+        "ratio": 0.769,
+        "caption": "Reception and kuthuvilakku"
+      }
+    ],
+    "drawings": [
+      {
+        "src": "/images/drawings/mallipoo-plan",
+        "alt": "Furnished plan of the lobby",
+        "ratio": 1.6,
+        "title": "Lobby plan"
+      }
+    ],
+    "materials": [
+      "athangudi-tiles",
+      "burma-teak",
+      "kanchipuram-silk",
+      "temple-brass",
+      "black-granite",
+      "ochre-limewash"
+    ],
+    "transformations": [],
+    "has3d": false,
+    "services": [
+      "hospitality-retail",
+      "furniture-material-consultation",
+      "3d-visualization"
+    ]
+  },
+  {
+    "slug": "kaapi-labs",
+    "title": "Kaapi Labs Studio",
+    "subtitle": "A long table, a long window, and endless filter coffee",
+    "categories": [
+      "Commercial",
+      "Interior Design"
+    ],
+    "type": "Studio office",
+    "location": "Coimbatore, Tamil Nadu",
+    "year": 2024,
+    "status": "Concept study",
+    "featured": false,
+    "cover": {
+      "src": "/images/renders/halden-workspace",
+      "alt": "Office with a polished concrete floor, a long table and a ribbon window",
+      "ratio": 1.6
+    },
+    "excerpt": "A ribbon window, a six-metre review table and a timber wall for a twelve-person design team.",
+    "concept": "Replace the cubicle grid with one shared table. Quiet desks sit along the window; the table is where work is reviewed, argued over and finished — usually with coffee.",
+    "narrative": [
+      "A 12-metre ribbon window runs the length of the north wall, giving even daylight to three individual desks. The centre of the room is a six-metre table under two linear pendants — the place where drawings are pinned, samples compared and lunch shared.",
+      "The west wall is lined in vertical timber boards that hide storage and soften acoustics. Opposite, a full-height shelf holds the library and sample archive, and a separate material table keeps current palettes on view.",
+      "Floors are polished concrete; the ceiling is left as exposed concrete. The palette is deliberately quiet so the work on the table is the most colourful thing in the room.",
+      "This is a concept visualisation. The office images on the Studio page come from the same Blender scene."
+    ],
+    "specs": [
+      {
+        "label": "Programme",
+        "value": "Studio for 12, review table, material library"
+      },
+      {
+        "label": "Area",
+        "value": "1,350 sq ft (concept)"
+      },
+      {
+        "label": "Daylight",
+        "value": "North-facing ribbon window"
+      },
+      {
+        "label": "Acoustics",
+        "value": "Timber slat wall, concealed absorption"
+      },
+      {
+        "label": "Status",
+        "value": "Concept study"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/images/renders/halden-table",
+        "alt": "The long review table with chairs",
+        "ratio": 1.6,
+        "caption": "The review table"
+      },
+      {
+        "src": "/images/renders/halden-materials",
+        "alt": "Material table with stone, wood, tile and fabric samples",
+        "ratio": 0.769,
+        "caption": "Material table"
+      },
+      {
+        "src": "/images/renders/halden-studio",
+        "alt": "View across the office toward the shelving wall",
+        "ratio": 1.6,
+        "caption": "Library wall"
+      }
+    ],
+    "drawings": [
+      {
+        "src": "/images/drawings/halden-plan",
+        "alt": "Furnished office plan",
+        "ratio": 1.6,
+        "title": "Office plan"
+      }
+    ],
+    "materials": [
+      "polished-concrete",
+      "burma-teak",
+      "handloom-cotton",
+      "black-steel-grill"
+    ],
+    "transformations": [],
+    "has3d": false,
+    "services": [
+      "commercial-office-interiors",
+      "space-planning",
+      "sustainable-design"
+    ]
+  },
+  {
+    "slug": "mylapore-terrace-house",
+    "title": "Mylapore Terrace House",
+    "subtitle": "Saving a Madras-terrace roof, one teak joist at a time",
+    "categories": [
+      "Renovation",
+      "Residential",
+      "Interior Design"
+    ],
+    "type": "Heritage renovation",
+    "location": "Mylapore, Chennai",
+    "year": 2024,
+    "status": "Design study",
+    "featured": true,
+    "cover": {
+      "src": "/images/renders/mylapore-living",
+      "alt": "Renovated room with a Madras-terrace ceiling of teak joists, exposed brick, red oxide floor and an oonjal",
+      "ratio": 1.6
+    },
+    "excerpt": "Teak joists and brick kept as found; red oxide floor restored, a granite-topped kitchen added, and an oonjal by the window.",
+    "concept": "Keep what the old house does well — the Madras-terrace roof, tall windows and honest brick — and add a kitchen and a swing that make it easy to live in again.",
+    "narrative": [
+      "The house had been used as a storeroom for years: raw concrete patches over the floor, painted-over walls, tube lights and clouded window glass. Our study keeps the Madras-terrace roof — teak joists carrying brick and lime — and cleans the windows rather than replacing them.",
+      "A red oxide floor is relaid across the room. The brick wall is cleaned and sealed; the other walls are finished in lime plaster.",
+      "The kitchen is a single teak run with a black granite counter and green tiles, facing a granite-topped island with three cane stools. An oonjal hangs by the window, and a banana plant grows where the old water tank used to leak.",
+      "The before and after images use identical Blender cameras and are a design visualisation, not documentation of a completed project."
+    ],
+    "specs": [
+      {
+        "label": "Programme",
+        "value": "Living, kitchen, swing corner"
+      },
+      {
+        "label": "Area",
+        "value": "750 sq ft (study)"
+      },
+      {
+        "label": "Ceiling height",
+        "value": "4.2 m"
+      },
+      {
+        "label": "Retained",
+        "value": "Madras-terrace roof, brick wall, window openings"
+      },
+      {
+        "label": "Status",
+        "value": "Design study"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/images/renders/mylapore-kitchen",
+        "alt": "Kitchen with black granite, teak cabinets, brass vessels and cane stools",
+        "ratio": 1.6,
+        "caption": "Kitchen and island"
+      },
+      {
+        "src": "/images/renders/mylapore-living",
+        "alt": "Living area under the teak joists",
+        "ratio": 1.6,
+        "caption": "Living area and oonjal"
+      }
+    ],
+    "drawings": [
+      {
+        "src": "/images/drawings/mylapore-plan",
+        "alt": "Furnished plan of the renovated room",
+        "ratio": 1.6,
+        "title": "Furnished plan"
+      }
+    ],
+    "materials": [
+      "reclaimed-brick",
+      "red-oxide-floor",
+      "burma-teak",
+      "black-granite",
+      "zellige-ceramic",
+      "lime-plaster",
+      "cane-weave",
+      "temple-brass"
+    ],
+    "transformations": [
+      "mylapore-living",
+      "mylapore-kitchen"
+    ],
+    "has3d": false,
+    "services": [
+      "renovation-restoration",
+      "luxury-residential-interiors",
+      "design-consultation"
+    ]
+  }
+]

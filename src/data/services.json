@@ -1,0 +1,409 @@
+[
+  {
+    "slug": "architectural-design",
+    "number": "01",
+    "title": "Architectural Design",
+    "short": "New homes and buildings, from site strategy to construction drawings.",
+    "description": "We design new homes from the ground up, reading the site, the sun and the monsoon before anything else. Courtyards, deep verandahs, sloped clay-tile roofs and thick walls are not nostalgia — they are the best climate engineering Tamil Nadu ever had, and we combine them with modern structure, plumbing and kitchens.",
+    "deliverables": [
+      "Site and feasibility study",
+      "Concept massing models",
+      "Planning drawings and design statement",
+      "Technical and construction drawings",
+      "Coordination with engineers and consultants"
+    ],
+    "process": [
+      {
+        "title": "Site & brief",
+        "text": "Survey, constraints, orientation and a written brief agreed together."
+      },
+      {
+        "title": "Concept",
+        "text": "Massing studies, sketch plans and a first 3D model of the idea."
+      },
+      {
+        "title": "Development",
+        "text": "Plans, sections, materials and structure resolved in detail."
+      },
+      {
+        "title": "Delivery",
+        "text": "Technical package, tender support and site visits through completion."
+      }
+    ],
+    "image": {
+      "src": "/images/renders/mutram-exterior-day",
+      "alt": "South Indian courtyard house with a clay-tile roof and thinnai verandah",
+      "ratio": 1.6
+    },
+    "projects": [
+      "mutram-veedu"
+    ]
+  },
+  {
+    "slug": "luxury-residential-interiors",
+    "number": "02",
+    "title": "Luxury Residential Interiors",
+    "short": "Complete interiors for private homes, with every surface considered.",
+    "description": "For private homes we design the whole interior as one composition — teak joinery, Athangudi or red oxide floors, brass lighting, oonjal, pooja space and furniture. The aim is a home that feels calm, works for three generations, and still has a place for the grandmother's brass vessels.",
+    "deliverables": [
+      "Interior concept and mood direction",
+      "Joinery and kitchen design",
+      "Lighting plan",
+      "Finishes and furniture schedules",
+      "Styling and installation"
+    ],
+    "process": [
+      {
+        "title": "Listening",
+        "text": "How you live, what you collect, what you want to leave behind."
+      },
+      {
+        "title": "Direction",
+        "text": "A concept with plans, palette and key pieces."
+      },
+      {
+        "title": "Detail",
+        "text": "Joinery drawings, lighting, specifications and samples."
+      },
+      {
+        "title": "Installation",
+        "text": "Procurement, site coordination and final styling."
+      }
+    ],
+    "image": {
+      "src": "/images/renders/mutram-oonjal",
+      "alt": "Hall with a teak oonjal and cane chairs",
+      "ratio": 1.6
+    },
+    "projects": [
+      "mutram-veedu",
+      "oonjal-flat",
+      "mylapore-terrace-house"
+    ]
+  },
+  {
+    "slug": "commercial-office-interiors",
+    "number": "03",
+    "title": "Commercial & Office Interiors",
+    "short": "Workplaces that support focus, collaboration and identity.",
+    "description": "We plan offices and studios around how teams actually work: places to concentrate, places to gather, and the storage, acoustics and light that make both possible. The result should express the organisation without resorting to branding on every wall.",
+    "deliverables": [
+      "Workplace briefing and occupancy study",
+      "Space plan and test fits",
+      "Acoustic and lighting strategy",
+      "Furniture and finishes specification",
+      "Fit-out drawings and coordination"
+    ],
+    "process": [
+      {
+        "title": "Observe",
+        "text": "Workshops and observation of current working patterns."
+      },
+      {
+        "title": "Plan",
+        "text": "Test fits that balance focus, collaboration and growth."
+      },
+      {
+        "title": "Specify",
+        "text": "Finishes, furniture, acoustics and lighting."
+      },
+      {
+        "title": "Fit-out",
+        "text": "Drawings, contractor coordination and handover."
+      }
+    ],
+    "image": {
+      "src": "/images/renders/halden-workspace",
+      "alt": "Office with a long oak table and ribbon window",
+      "ratio": 1.6
+    },
+    "projects": [
+      "kaapi-labs"
+    ]
+  },
+  {
+    "slug": "hospitality-retail",
+    "number": "04",
+    "title": "Hospitality & Retail Design",
+    "short": "Hotels, restaurants and shops with a strong sense of arrival.",
+    "description": "Hotels, restaurants and shops are judged in the first ten seconds. We design the arrival — pillars, brass light, the smell of jasmine — along with the materials guests touch and the operational details that keep it all working.",
+    "deliverables": [
+      "Guest journey and concept narrative",
+      "Front- and back-of-house planning",
+      "Bespoke furniture and lighting design",
+      "Durability-tested material specification",
+      "FF&E schedules and procurement support"
+    ],
+    "process": [
+      {
+        "title": "Narrative",
+        "text": "The story of the place, its guests and its operators."
+      },
+      {
+        "title": "Planning",
+        "text": "Flows, capacity and service routes."
+      },
+      {
+        "title": "Design",
+        "text": "Materials, bespoke pieces, lighting and signage."
+      },
+      {
+        "title": "Opening",
+        "text": "Procurement, installation and snagging before launch."
+      }
+    ],
+    "image": {
+      "src": "/images/renders/mallipoo-lobby",
+      "alt": "Hotel lobby with teak pillars, brass lamps and a brass uruli",
+      "ratio": 1.6
+    },
+    "projects": [
+      "hotel-mallipoo"
+    ]
+  },
+  {
+    "slug": "renovation-restoration",
+    "number": "05",
+    "title": "Renovation & Restoration",
+    "short": "Careful work with existing buildings — keeping what matters.",
+    "description": "Many good houses already exist — agraharam homes, Madras-terrace bungalows, Chettinad mansions, 1980s flats. We survey carefully, decide what to keep, repair and remove, and add new work that respects the old. Teak doors get restored; tube lights do not.",
+    "deliverables": [
+      "Measured survey and condition report",
+      "Retention and removal strategy",
+      "Heritage consent documentation where required",
+      "Restoration details and new-work drawings",
+      "Contractor selection and site supervision"
+    ],
+    "process": [
+      {
+        "title": "Survey",
+        "text": "Measured drawings, condition and history of the building."
+      },
+      {
+        "title": "Strategy",
+        "text": "What to keep, repair, remove and add."
+      },
+      {
+        "title": "Design",
+        "text": "New work detailed to sit beside the old."
+      },
+      {
+        "title": "Site",
+        "text": "Close supervision — renovation is decided on site."
+      }
+    ],
+    "image": {
+      "src": "/images/renders/mylapore-kitchen",
+      "alt": "Renovated kitchen under a Madras-terrace roof",
+      "ratio": 1.6
+    },
+    "projects": [
+      "mylapore-terrace-house",
+      "oonjal-flat"
+    ]
+  },
+  {
+    "slug": "space-planning",
+    "number": "06",
+    "title": "Space Planning",
+    "short": "Layouts that make every square metre work.",
+    "description": "Before tiles and furniture comes the plan. We test layouts against how your family moves through the day, where the breeze and light come from, where the pooja room and kitchen should sit, and what needs storing. Vaastu-aware planning is available on request — we explain the trade-offs honestly.",
+    "deliverables": [
+      "Existing plan analysis",
+      "Two to three layout options",
+      "Furniture layout and circulation diagrams",
+      "Storage strategy",
+      "Final dimensioned plan"
+    ],
+    "process": [
+      {
+        "title": "Measure",
+        "text": "Accurate base plans and an inventory of needs."
+      },
+      {
+        "title": "Options",
+        "text": "Alternative layouts with their trade-offs explained."
+      },
+      {
+        "title": "Refine",
+        "text": "The chosen option tested and adjusted."
+      },
+      {
+        "title": "Document",
+        "text": "A dimensioned plan ready for design or build."
+      }
+    ],
+    "image": {
+      "src": "/images/drawings/adyar-plan",
+      "alt": "Furnished plan drawing of a Chennai apartment living room",
+      "ratio": 1.6
+    },
+    "projects": [
+      "oonjal-flat",
+      "kaapi-labs"
+    ]
+  },
+  {
+    "slug": "3d-visualization",
+    "number": "07",
+    "title": "3D Architectural Visualization",
+    "short": "Real-time models and still images built from the design itself.",
+    "description": "We build accurate 3D models in Blender and use them for renderings, before-and-after studies and interactive web viewers like the one on this site. You can walk around your thinnai before a single brick is laid.",
+    "deliverables": [
+      "Blender scene and material library",
+      "Still renderings for presentation",
+      "Before-and-after comparison sets",
+      "Interactive web model (GLB / Three.js)",
+      "Line drawings exported from the model"
+    ],
+    "process": [
+      {
+        "title": "Model",
+        "text": "Geometry built from drawings, organised for reuse."
+      },
+      {
+        "title": "Material",
+        "text": "Physically based materials and UV mapping."
+      },
+      {
+        "title": "Light",
+        "text": "Daylight, dusk and interior lighting studies."
+      },
+      {
+        "title": "Publish",
+        "text": "Renders, drawings and compressed web models."
+      }
+    ],
+    "image": {
+      "src": "/images/drawings/mutram-axonometric",
+      "alt": "Axonometric drawing exported from the courtyard house model",
+      "ratio": 1.6
+    },
+    "projects": [
+      "mutram-veedu",
+      "hotel-mallipoo"
+    ]
+  },
+  {
+    "slug": "furniture-material-consultation",
+    "number": "08",
+    "title": "Furniture & Material Consultation",
+    "short": "Choosing what you touch: stone, timber, fabric, metal.",
+    "description": "For clients who have an architect or builder but want help with the materials and pieces that define a room, we offer focused consultation: sample boards, furniture selection, and bespoke pieces where nothing suitable exists.",
+    "deliverables": [
+      "Material and finish board",
+      "Furniture selection with alternatives",
+      "Bespoke furniture sketches",
+      "Supplier and maker introductions",
+      "Care and maintenance notes"
+    ],
+    "process": [
+      {
+        "title": "Brief",
+        "text": "Rooms, budget and the feeling you are after."
+      },
+      {
+        "title": "Samples",
+        "text": "Physical and digital boards to compare in your light."
+      },
+      {
+        "title": "Selection",
+        "text": "Final pieces and finishes, with lead times."
+      },
+      {
+        "title": "Placement",
+        "text": "Delivery coordination and placement on site."
+      }
+    ],
+    "image": {
+      "src": "/images/renders/material-board",
+      "alt": "Flat lay of stone, timber, ceramic and fabric samples",
+      "ratio": 1.6
+    },
+    "projects": [
+      "hotel-mallipoo",
+      "mutram-veedu"
+    ]
+  },
+  {
+    "slug": "sustainable-design",
+    "number": "09",
+    "title": "Sustainable Design Consulting",
+    "short": "Lower-carbon decisions made early, when they matter most.",
+    "description": "The largest environmental decisions are made in the first weeks of a project: whether to build or adapt, how big, which structure, which materials. We help clients make those choices with evidence, and carry them through to specification.",
+    "deliverables": [
+      "Retain-or-rebuild options appraisal",
+      "Passive design and daylight strategy",
+      "Embodied carbon comparison of key materials",
+      "Low-impact material specification",
+      "Guidance for certification where relevant"
+    ],
+    "process": [
+      {
+        "title": "Baseline",
+        "text": "What exists and what the project could avoid building."
+      },
+      {
+        "title": "Compare",
+        "text": "Options assessed for carbon, cost and comfort."
+      },
+      {
+        "title": "Decide",
+        "text": "Clear recommendations, recorded in the brief."
+      },
+      {
+        "title": "Specify",
+        "text": "Materials and systems carried into the drawings."
+      }
+    ],
+    "image": {
+      "src": "/images/renders/halden-studio",
+      "alt": "Daylit office with timber wall",
+      "ratio": 1.6
+    },
+    "projects": [
+      "kaapi-labs",
+      "mylapore-terrace-house"
+    ]
+  },
+  {
+    "slug": "design-consultation",
+    "number": "10",
+    "title": "Design Consultation",
+    "short": "A focused session to unlock a project or a single room.",
+    "description": "Not every project needs a full appointment. A design consultation is a structured working session — in person or remote — to review a plan, resolve a difficult room, or set direction before you engage builders.",
+    "deliverables": [
+      "Pre-session questionnaire review",
+      "Two-hour working session",
+      "Annotated sketches and plan mark-ups",
+      "Written summary with next steps",
+      "Optional follow-up session"
+    ],
+    "process": [
+      {
+        "title": "Request",
+        "text": "Tell us about the project using the consultation form."
+      },
+      {
+        "title": "Prepare",
+        "text": "We review your drawings and photographs in advance."
+      },
+      {
+        "title": "Session",
+        "text": "A focused working session, in person or online."
+      },
+      {
+        "title": "Summary",
+        "text": "Notes, sketches and recommended next steps."
+      }
+    ],
+    "image": {
+      "src": "/images/renders/halden-materials",
+      "alt": "Material samples on a walnut table",
+      "ratio": 0.769
+    },
+    "projects": [
+      "mylapore-terrace-house"
+    ]
+  }
+]
